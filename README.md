@@ -1,6 +1,6 @@
 -👋 Hi, I’m @JGabriel1804
 
--👀 I’m interested in software development, cloud computing, and artificial intelligence. I’m especially passionate about working with technologies that have real-world impact, and my dream is to work at Embraer one day.
+-👀 I’m interested in software development, cloud computing, and artificial intelligence. I’m especially passionate about working with technologies that have real-world impact.
 
 -🌱 I’m currently learning more about Microsoft Dynamics CRM development, as well as deepening my knowledge in cloud platforms like Azure and AWS.
 
