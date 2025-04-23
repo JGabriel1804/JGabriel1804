@@ -6,7 +6,7 @@
 
 -💞️ I’m looking to collaborate on innovative projects involving automation, data analysis, or systems integration. I love solving complex problems and working as part of a team.
 
--📫 How to reach me: You can connect with me on LinkedIn or email me at joaogabrieldesouzaoliveira@yahoo.com.br
+-📫 How to reach me: You can connect with me on LinkedIn linkedin.com/in/joãogabrielsouza1804 or email me at joaogabrieldesouzaoliveira@yahoo.com.br
 
 -😄 Pronouns: he/him
 
